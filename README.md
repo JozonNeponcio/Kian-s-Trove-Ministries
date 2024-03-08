@@ -1,2 +1,2 @@
-# Kian-s-Trove-Ministries
+# Kian's-Trove-Ministries
 This is my sample project website
